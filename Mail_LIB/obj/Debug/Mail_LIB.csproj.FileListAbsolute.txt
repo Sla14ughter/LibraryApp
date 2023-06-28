@@ -1,0 +1,6 @@
+D:\Мои проекты\LibraryApp\Mail_LIB\bin\Debug\Mail_LIB.dll
+D:\Мои проекты\LibraryApp\Mail_LIB\bin\Debug\Mail_LIB.pdb
+D:\Мои проекты\LibraryApp\Mail_LIB\obj\Debug\Mail_LIB.csproj.AssemblyReference.cache
+D:\Мои проекты\LibraryApp\Mail_LIB\obj\Debug\Mail_LIB.csproj.CoreCompileInputs.cache
+D:\Мои проекты\LibraryApp\Mail_LIB\obj\Debug\Mail_LIB.dll
+D:\Мои проекты\LibraryApp\Mail_LIB\obj\Debug\Mail_LIB.pdb

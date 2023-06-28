@@ -1,0 +1,14 @@
+D:\Мои проекты\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+D:\Мои проекты\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+D:\Мои проекты\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+D:\Мои проекты\LibraryApp\LibraryApp\bin\Debug\Mail_LIB.dll
+D:\Мои проекты\LibraryApp\LibraryApp\bin\Debug\Mail_LIB.pdb
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.SuggestedBindingRedirects.cache
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Form1.resources
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.Properties.Resources.resources
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.GenerateResource.cache
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+D:\Мои проекты\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
